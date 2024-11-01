@@ -157,6 +157,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-multipart==0.0.12
 pytz==2024.2
+pysqlite3-binary
 pyvis==0.3.2
 PyYAML==6.0.2
 pyzmq
